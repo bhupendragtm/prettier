@@ -1,6 +1,6 @@
 ---
 id: why-prettier
-title: Why Prettier?
+title: Why Prettier123?
 ---
 
 ## Building and enforcing a style guide
